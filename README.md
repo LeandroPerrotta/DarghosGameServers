@@ -8,8 +8,11 @@ New rework of whole game, not open source yet for security reasons.
 
 ## Darghos 8.6 (2011 ~ 2007)
 https://github.com/LeandroPerrotta/DarghosTFS04_v4 (last stable release, but not active project anymore)
+
 https://github.com/LeandroPerrotta/DarghosTFS04_86_v3 (deprecated)
+
 https://github.com/LeandroPerrotta/DarghosTFS04_86_v2 (deprecated)
+
 https://github.com/LeandroPerrotta/DarghosTFS04_86_v1 (deprecated)
 
 ## Darghos 8.5 (2009 ~ 2011)
