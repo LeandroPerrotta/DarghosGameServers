@@ -6,7 +6,7 @@ Through the years Darghos engine has heavily changed and was needed create new p
 ## Darghos Beta (2021 to now)
 New rework of whole game, not open source yet for security reasons.
 
-## Darghos 8.6 (2011 ~ 2007)
+## Darghos 8.6 (2011 ~ 2017)
 https://github.com/LeandroPerrotta/DarghosTFS04_v4 (last stable release, but not active project anymore)
 
 https://github.com/LeandroPerrotta/DarghosTFS04_86_v3 (deprecated)
